@@ -1,0 +1,23 @@
+ ******************************************************************
+ *                                                                *
+ *                              MENI                              *
+ *                                                                *
+ *     Begova corba                               $6       1      *
+ *     Cevapi                                     $8       2      *
+ *     CLUB Sendvic                               $12      3      *
+ *     Sarma                                      $6       4      *
+ *     Bosanski lonac                             $6       5      *
+ *     Begova corba                               $6       6      *
+ *     Karadordeva snicla                         $25      7      *
+ *     Mijesano meso                              $25      8      *
+ *     Sarajevski cevapcici                       $8       9      *
+ *     Bosanski japrak                            $13      10     *
+ *     Pecenje                                    $30      11     *
+ *     Tufahije                                   $3       12     *
+ *     Baklava                                    $3       13     *
+ *     Bosanska kahva                             $5       14     *
+ *                                                                *
+ *                       UZIVAJTE DO SRCA                         *
+ *                                                                *
+ ******************************************************************
+

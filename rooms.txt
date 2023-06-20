@@ -1,0 +1,39 @@
+Naziv sobe: Standard
+Tip sobe: sa klimom
+Broj kreveta: 2
+Najamnina: 150
+
+Naziv sobe: Superior
+Tip sobe: sa balkonom
+Broj kreveta: 3
+Najamnina: 200
+
+Naziv sobe: Family
+Tip sobe: sa dodatnim krevetom (4+1)
+Broj kreveta: 4
+Najamnina: 250
+
+Naziv sobe: Urban
+Tip sobe: pogled na grad
+Broj kreveta: 3
+Najamnina: 200
+
+Naziv sobe: Paradise
+Tip sobe: privatna terasa
+Broj kreveta: 2
+Najamnina: 200
+
+Naziv sobe: Vintage
+Tip sobe: u stilu 70-ih
+Broj kreveta: 2
+Najamnina: 200
+
+Naziv sobe: Royal
+Tip sobe: jacuzzi u sobi
+Broj kreveta: 2
+Najamnina: 250
+
+Naziv sobe: Deluxe
+Tip sobe: s pogledom na more
+Broj kreveta: 2
+Najamnina: 300
